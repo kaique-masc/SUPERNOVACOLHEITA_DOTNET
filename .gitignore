@@ -1,0 +1,13 @@
+﻿**/bin/
+**/obj/
+.idea/
+.vs/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+.env
+.env.*

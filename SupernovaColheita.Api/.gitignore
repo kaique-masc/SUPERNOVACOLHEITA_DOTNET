@@ -1,0 +1,20 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+*.user
+*.suo
+
+# Banco de dados local
+*.db
+*.db-shm
+*.db-wal
+
+# Arquivos de ambiente e segredos
+.env
+.env.*
+appsettings.Local.json
+
+# Arquivos temporários
+*.log
+TestResults/

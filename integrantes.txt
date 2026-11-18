@@ -1,0 +1,4 @@
+﻿Kaique Mascarenhas dos Santos - RM565802
+Felipe Augusto Lopes Ferreira - RM563982
+Projeto: Supernova Colheita
+Tecnologia: ASP.NET Core 8 - Minimal API
